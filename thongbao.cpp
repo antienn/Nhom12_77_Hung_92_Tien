@@ -3,6 +3,6 @@
 using namespce std;
 
 int main() {
-	cout << "Hello world" << endl;
+	cout << "Hello world, Good morning " << endl;
 	return 0;
 }
